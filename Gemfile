@@ -15,6 +15,7 @@ gem 'mini_magick', '4.8.0'
 gem 'net-ssh'
 # Authentications for user managment
 gem 'devise'
+gem 'gravtastic'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
